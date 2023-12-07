@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* **[Adversarial Attacks Against Visually Aware Fashion Outfit Recommender Systems](https://link.springer.com/chapter/10.1007/978-3-031-22192-7_4)**  
+_Attimonelli Matteo_, Amatulli Gianluca, Di Gioia Leonardo, Malitesta Daniele, Deldjoo Yashar, Di Noia Tommaso  
+*Recommender Systems in Fashion and Retail. RECSYS 2022.* 
