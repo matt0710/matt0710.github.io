@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Matteo Attimonelli, I'm a PhD Student for the National PhD Program in Artificial Intelligence hosted at SisInfLab Research Group at Polytechnic University of Bari
+Hi, I'm Matteo Attimonelli, I'm a PhD Student for the National PhD Program in Artificial Intelligence at Sapienza University of Rome. I'm hosted at Polytechnic University of Bari in the SisInfLab Research Group, lead by Prof. Tommaso Di Noia.
 
 My main research topics are _Generative Artificial Intelligence_, _Reinforcement Learning_, _Recommender Systems_, and _Multimodal Deep Learning_.
 
