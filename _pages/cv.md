@@ -20,4 +20,4 @@ Education
 Work experience
 ======
 * Research Internship @ Alpen-Adria-Universität Klagenfurt (Apr 2023 - Jul 2023)
-* Machine Learning Engineer @ Wideverse s.r.l.s
+* Machine Learning Engineer @ Wideverse s.r.l.s (Apr 2022 - Oct 2023)
