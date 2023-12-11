@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Greetings, I'm Matteo Attimonelli, currently pursuing a Ph.D. in Artificial Intelligence as part of the National Ph.D. Program at Sapienza University of Rome. I am based at the Polytechnic University of Bari within the [Information Systems Research Group (SisInfLab)](https://sisinflab.poliba.it/), lead by Prof. Tommaso Di Noia.
+Greetings, I am Matteo Attimonelli, currently pursuing a Ph.D. in Artificial Intelligence as part of the National Ph.D. Program at Sapienza University of Rome. I am based at the Polytechnic University of Bari within the [Information Systems Research Group (SisInfLab)](https://sisinflab.poliba.it/), lead by Prof. Tommaso Di Noia.
 
-As a passionate enthusiast of Deep Learning, I have actively engaged in Research and Development (R&D) activities within the academic realm, contributing to university projects and a research internship in the [INFSYS Lab](https://www.aau.at/en/aics/research-groups/infsys/), supervised by Prof. Dietmar Jannach. Furthermore, I've had the opportunity to work in a company, contributing to the development of Deep Learning solutions form Computer Vision and Recommender Systems realms.
+As a passionate enthusiast of Deep Learning, I have actively engaged in Research and Development (R&D) activities within the academic realm, contributing to university projects and a research internship in the [INFSYS Lab](https://www.aau.at/en/aics/research-groups/infsys/), supervised by Prof. Dietmar Jannach. Furthermore, I've had the opportunity to work in a company, contributing to the development of Deep Learning solutions for Computer Vision and Recommender Systems domains.
 
 Currently, my primary research focuses on Generative Artificial Intelligence, Reinforcement Learning, Recommender Systems, and Multimodal Deep Learning.
 # Recent publications
