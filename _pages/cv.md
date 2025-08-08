@@ -20,10 +20,10 @@ Work experience
 * **Period:** Apr 2023 - Jul 2023
 * **Description:** During my internship, I conducted research supervised by Prof. Dietmar Jannach, focusing on complementary recommendation in the fashion domain. The main objective was to develop an outfit recommender system capable of suggesting compatible combinations of fashion items, even if they have never been seen together before. I explored various Generative AI approaches, including GANs, Stable Diffusion, and Masked Generative Transformers models. Additionally, I completed my Master's Thesis under the joint supervision of Prof. Dietmar Jannach and Prof. Tommaso Di Noia.
 
-### Machine Learning Engineer
+### Deep Learning Engineer
 * **Company:** [Wideverse](https://www.wideverse.com/), Italy
 * **Period:** Apr 2022 - Oct 2023
-* **Description:** As an R&D Machine Learning Engineer, my focus lay in solving challenges related to Deep Computer Vision and Deep Recommender Systems in industrial scenarios. I collaborated with researchers and PhD students from the SisInfLab research group at the Polytechnic University of Bari, focusing on 2D and 3D Object Detection as well as Multimodal Recommender Systems.
+* **Description:** As an R&D Deep Learning Engineer, my focus lay in solving challenges related to Deep Computer Vision and Deep Recommender Systems in industrial scenarios. I collaborated with researchers and PhD students from the SisInfLab research group at the Polytechnic University of Bari, focusing on 2D and 3D Object Detection as well as Multimodal Recommender Systems.
 
 ### Research Collaborator 
 * **University:** [SisInfLab](https://sisinflab.poliba.it/) @ Polytechnic University of Bari, Italy
@@ -41,14 +41,14 @@ Education
 * **Description:** Pursuing a Ph.D. in Artificial Intelligence through the National Program, affiliated with Sapienza University of Rome as a cornerstone.
 
 
-### M.S. in Computer Engineering
+### MSc. in Computer Engineering
 * **University:** Polytechnic University of Bari
 * **Period:** Oct 2021 - Oct 2023
 * **Grade:** 110/110 with honors (full marks)
 * **Description:** Thesis entitled "Generative Artificial Intelligence for Complementary Item Recommendation in the Fashion Domain".
 
 
-### B.S. in Computer Science and Automation Engineering
+### BSc. in Computer Science and Automation Engineering
 * **University:** Polytechnic University of Bari
 * **Period:** Oct 2018 - Jul 2021
 * **Grade:** 110/110 with honors (full marks)
