@@ -11,9 +11,9 @@ title                    : "Matteo Attimonelli"
 title_separator          : "-"
 name                     : &name "Matteo Attimonelli"
 description              : &description "PhD Student"
-url                      : https://matt0710.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://matteoattimonelli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "matt0710/matt0710.github.io"
+repository               : "matteoattimonelli/matteoattimonelli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=fm4GWqIAAAAJ&hl=it"
   email            :  "matteo.attimonelli@poliba.it"
   researchgate     :  "https://www.researchgate.net/profile/Matteo-Attimonelli"
-  github           :  "matt0710"
+  github           :  "matteoattimonelli"
   linkedin         :  "matteo-attimonelli-05011b220/"
 
 
