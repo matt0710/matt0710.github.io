@@ -14,6 +14,7 @@ This is a list of the conferences/journals I've been invited to serve as a revie
 ## 2025
 * ECIR
 * RecSys
+* 1st International Workshop on Data Quality-Aware Multimodal Recommendation (DaQuaMRec)
 * UMAP (subreviewer)
 
 ## 2024
